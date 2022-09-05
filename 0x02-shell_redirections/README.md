@@ -8,3 +8,4 @@ Task 4 will display the last 10 lines of a file
 Task 5 will print the first 10 lines of a file
 Task 6 has the commands to print a s[pecific line of a file.
 Task 7 creates a file and echos a text in it
+Task 8 writes into a file from standard output
