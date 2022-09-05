@@ -5,3 +5,4 @@ Task 1 is a script to print a confused smiley
 Task 2 is to display the content of /etc/passwd
 Task 3 will display the content of two files with the cat command
 Task 4 will display the last 10 lines of a file
+Task 5 will print the first 10 lines of a file
