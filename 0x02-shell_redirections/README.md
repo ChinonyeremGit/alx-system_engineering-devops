@@ -13,3 +13,4 @@ Task 9 will duplicate the last line of a file
 Task 10 deletes a particular kind of file
 Task 11 counts the number of directories and sun-directories
 Task 12 creates a script that displays the 10 newest files in the current directory
+Task 13 create a script that takes a list of words as input and prints only words that appear exactly once.
