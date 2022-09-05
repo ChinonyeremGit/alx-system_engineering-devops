@@ -7,3 +7,4 @@ Task 3 will display the content of two files with the cat command
 Task 4 will display the last 10 lines of a file
 Task 5 will print the first 10 lines of a file
 Task 6 has the commands to print a s[pecific line of a file.
+Task 7 creates a file and echos a text in it
