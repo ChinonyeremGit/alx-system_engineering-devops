@@ -5,3 +5,4 @@ Task 2 adds file to path
 Task 3 creates a script that counts the number of directories in the PATH
 Task 4 creates a script that counts environment variables
 Task 5 creates a script to list all local variables
+Task 6 creates a local variable
