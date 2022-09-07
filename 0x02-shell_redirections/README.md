@@ -22,4 +22,8 @@ Task 18, Display all lines of the file /etc/ssh/sshd_config starting with a lett
 Task 19, Replace all characters A and c from input to Z and e respectively.
 Task 20, Create a script that removes all letters c and C from input.
 TAsk 21, Write a script that reverse its input.
-Task 22, Write a script that displays all users and their home directories, sorted by users.
+Task 22, Write a script that displays all users and their home directories, sorted by users
+Task 23,writes a command that finds all empty files and directories in the current directory and sundirectories
+Task 24, writes a script that lists all the files with a `.gif` extension in the current directory and all its sub-directories
+Task 25,writes a script that decodes arcrostics that use the first letter of each line
+Task 26, writes a script that passes web servers into logs in TSV format as input and displays the 11 hostor IP addresses whcich did the most requests
